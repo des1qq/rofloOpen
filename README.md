@@ -2,7 +2,6 @@
 
 ---
 
-# rofloOpen
 
 🎮 Steam Game Launcher via Telegram  
 

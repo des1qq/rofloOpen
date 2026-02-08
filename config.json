@@ -1,9 +1,10 @@
 {
   "telegram": {
-    "bot_token": "7917212704:AAGucgQ5MgoAUQtiAWR7BCNKMH7mFfjbG3I",
-    "allowed_user_id": 6093665080
+    "bot_token": "",
+    "allowed_user_id": 000000000
   },
   "games": {
     "rust": "steam://rungameid/252490"
   }
+
 }
